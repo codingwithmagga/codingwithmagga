@@ -1,16 +1,23 @@
-## Hi there 👋
+## Marco Schoos — Senior C++ Engineer
+Legacy Systems • Build Systems • Testing • Dependencies • Performance (CPU, GPU)
 
-<!--
-**codingwithmagga/codingwithmagga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently:** building/maintaining performance toolkit, learning CUDA  
 
-Here are some ideas to get you started:
+**Focus:** measurable improvements, clean architecture, benchmarking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Featured (start here)
+- **CPUScope** — performance forensics toolkit (profiling + analysis + reports) → [repo](https://github.com/codingwithmagga/cpu_scope)
+- **Task Scheduler** — thread pool + lock-based concurrent queue + benchmarking → [repo](https://github.com/codingwithmagga/task_scheduler)
+- **Documentation Template** — doxygen + sphinx + Read the Docs→ [repo](https://github.com/codingwithmagga/doxysphinx-with-read-the-docs-template)
+
+<!-- ### Open Source (selected)
+- 🔧 Fixed race condition in <project> → reduced crashes under load (PR)
+- ⚡ Optimized memory usage in <lib> → −30% peak allocation (PR)
+Oder einzelnes Repo pinnen mit PR liste, lessones learned, kurzbeschriebung
 -->
+
+### Tech (core)
+C++20 • CMake • GoogleTest • GitHub Actions • Windows/MSVC • Linux perf • CUDA basics
+
+### Contact
+LinkedIn: https://www.linkedin.com/in/marco-schoos-senior-cpp-dev/ •  Email: marco@codingwithmagga.com  •  Location: Germany (remote)
